@@ -8,4 +8,13 @@ Computer vision is a field of artificial intelligence (AI) that enables computer
 Computer vision needs lots of data. It runs analyses of data over and over until it discerns distinctions and ultimately recognize images. For example, to train a computer to recognize automobile tires, it needs to be fed vast quantities of tire images and tire-related items to learn the differences and recognize a tire, especially one with no defects.
 
 ## What tech is involved??
-Two essential technologies are used to accomplish this: a type of machine learning called deep learning and a convolutional neural network (CNN).
+Two essential technologies are used to accomplish this: a type of machine learning called deep learning (DL) and a convolutional neural network (CNN).
+
+### Soo now, what is DL and CNN??
+Deep learning = 
+- Type of machine learning (ML), using algorithmic model
+- enabling computer to teach itself about the context of visual data
+
+Convolutional Neural Network = 
+- Helps ML or DL model "look" by breaking images down into pixels, 
+- represented by tags or labels 
